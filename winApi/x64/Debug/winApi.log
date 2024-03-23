@@ -1,0 +1,4 @@
+﻿  winApi.cpp
+C:\Users\307-09\Desktop\Shumkova\winApi\winApi.cpp(9,1): warning C4005: IDC_STATIC: изменение макроопределения
+C:\Users\307-09\Desktop\Shumkova\winApi\resource.h(23): message : см. предыдущее определение "IDC_STATIC"
+  winApi.vcxproj -> C:\Users\307-09\Desktop\Shumkova\winApi\x64\Debug\winApi.exe
